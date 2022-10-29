@@ -1,0 +1,22 @@
+/* * {
+    margin: 0px;
+    font-family: 'Open sans', Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    background-color: #112D4E;
+    /* background-image: linear-gradient(130deg, rgb(36, 85, 163) 23%, rgb(52, 151, 219) 52%, rgb(52, 142, 219) 58%, rgb(52, 131, 219) 65%, rgb(40, 116, 166) 74%); */
+    /* rgb(18, 124, 237) */ /*
+    align-items: center;
+    padding-left: 10px;
+} */
